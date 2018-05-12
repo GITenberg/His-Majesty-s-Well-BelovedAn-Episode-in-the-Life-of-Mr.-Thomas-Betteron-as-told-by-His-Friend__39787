@@ -1,0 +1,34 @@
+_repo: His-Majesty-s-Well-BelovedAn-Episode-in-the-Life-of-Mr.-Thomas-Betteron-as-told-by-His-Friend__39787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39787-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Orczy, Baroness Emmuska
+    - Barstow, Montagu, Mrs.
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2012-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 17th century -- Fiction'
+- !lcsh 'Actors -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Betterton, Thomas, 1635?-1710 -- Fiction'
+title: 'His Majesty''s Well-Beloved
+
+  An Episode in the Life of Mr. Thomas Betteron as told by His Friend John Honeywood'
+url: http://www.gutenberg.org/ebooks/39787
